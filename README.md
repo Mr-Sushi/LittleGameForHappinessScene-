@@ -1,6 +1,7 @@
-# 3D Memory Game
+# Little Game include Dart Game and Memory Game
 
-> - In Memory Game, you will be challenging your memory by finding matching pairs.
+>  - In Dart Game, you will be challenging your reflexes by hitting the green part to win the game.
+>  - In Memory Game, you will be challenging your memory by finding matching pairs.
 
 ### Objectives of this project
 
@@ -24,19 +25,3 @@
 > - Backup and temporary files created by various tools
 
 > - For a complete list of ignored files and folders, please refer to the included .gitignore file in this repository.
-
-### ReadyToPlay
-
-> - In this folder you will find the finished Game ready to play.
->   - Extract zip file
->   - Run Memory_Game.exe
-
-**Controls**
-
-> - Use your mouse to click and flip cards
-
-### Credits
-
-> - This project was inspired and guided by the exceptional work of Jannick Leismann.  
->   Thanks for his invaluable contribution as the instructor of this game development course on Udemy.
-> - https://www.udemy.com/user/janik-eismann/
