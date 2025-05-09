@@ -3,16 +3,6 @@
 >  - In Dart Game, you will be challenging your reflexes by hitting the green part to win the game.
 >  - In Memory Game, you will be challenging your memory by finding matching pairs.
 
-### Objectives of this project
-
-> - Understanding the fundamentals of the C# language
-> - Comprehending the basics of the Unity platform
-> - Developing a fun and engaging game environment
-
-### Contribution
-
-> - Your contributions are highly valued and welcomed.
-> - If you discover a bug or have any suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ### .gitignore
 
